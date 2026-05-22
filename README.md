@@ -87,7 +87,8 @@ The dataset includes real-world data science job postings from 2023 with:
 
 📸 Background Table:
 
-![Screenshot1](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+<img width="1864" height="636" alt="Screenshot 2026-05-22 112857" src="https://github.com/user-attachments/assets/a25e3d8f-53cc-4637-82c5-d1f626655758" />
+
 
 📉 Dashboard Implementation:
 
